@@ -33,7 +33,7 @@
   ],
   "main": "level.js",
   "dependencies": {
-    "level-packager": "~1.0.0",
+    "level-packager": "git://github.com/diorahman/level-packager",
     "leveldown": "~1.2.2"
   },
   "devDependencies": {
